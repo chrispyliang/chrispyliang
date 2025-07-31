@@ -1,8 +1,8 @@
 ## This is Chufeng Liang :shipit:
 
+- I am a *Software Engineer* at **Faire**.
 - Currently, I am working towards my Master's degree in *Computer Science* at the **University of Illinois Urbana-Champaign**.
 - I hold a Bachelor of Mathematics degree with a major in *Computer Science* from the **University of Waterloo**.
-- I am a *Software Engineer* at **Faire**.
 - Feel free to reach out to me at [me@liangchufeng.com](mailto:me@liangchufeng.com).
 
 <!--
